@@ -5,7 +5,7 @@
     "All4site <35457395+all4site@users.noreply.github.com>"
   ],
   "description": "Перемотка к верху страницы sass надо добавить самому",
-  "main": "scroll_top_page.js",
+  "main": "dist/scroll_top_page.js",
   "license": "MIT",
   "homepage": "",
   "ignore": [
